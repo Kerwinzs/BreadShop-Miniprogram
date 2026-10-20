@@ -1,6 +1,6 @@
 # 面包坊小程序 · 商家后台
 
-<img width="430" height="430" alt="IMG_8295" src="https://github.com/user-attachments/assets/322313dd-7bb4-4d1f-aa98-5c49a8d5354b" />
+<img width="200" height="200" alt="IMG_8295" src="https://github.com/user-attachments/assets/322313dd-7bb4-4d1f-aa98-5c49a8d5354b" />
 
 一个已经完成核心功能、正在真实运维中的面包坊微信小程序与商家后台项目，欢迎体验！
 
